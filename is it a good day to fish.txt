@@ -1,0 +1,6 @@
+strong,warm,warm,am,sunny,weekend,yes
+strong,warm,warm,pm,sunny,weekend,yes
+strong,cold,warm,pm,rainy,weekday,no
+strong,warm,cold,pm,sunny,weekday,yes
+strong,warm,cold,am,sunny,weekend,yes
+light,cold,warm,Am,rainy,weekday,no
